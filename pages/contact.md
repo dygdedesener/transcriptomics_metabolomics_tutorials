@@ -34,34 +34,15 @@ Add an [issue on GitHub](https://github.com/BiGCAT-UM/Transcriptomics_Metabolomi
 <br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>), Maastricht University
 </td>
 </tr>
+<tr>
+<td><img src=""/></td>
+<td>
+<b><a href="https://www.linkedin.com/in/deniseslenter/" target="_blank">Denise Slenter</a></b>
+<br/> Metabolomics Analysis
+<br/> PhD at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>), Maastricht University
+</td>
+</tr>
 </table>
 
 
 ***
-
-
-## Link set development
-
-* **Friederike Ehrhart**
-<br/> Disease-gene associations for rare diseases (link set)
-<br/> Assistant professor at the Department of Bioinformatics ([BiGCaT](https://www.bigcat.unimaas.nl/)), Maastricht University
-
-* **Egon Willighagen**
-<br/> Small molecule-protein interactions (link set)
-<br/> Assistant professor at the Department of Bioinformatics ([BiGCaT](https://www.bigcat.unimaas.nl/)), Maastricht University
-
-
-***
-
-
-## Former developers
-
-* **Thomas Kelder**
-<br/> Development and support
-<br/> Co-founder & CSO of [EdgeLeap](https://www.edgeleap.com/)
-
-* **Pooja Mandaviya**
-<br/> Master intern in 2011
-
-* **Naime Douallin**
-<br/> Bachelor intern in 2010
