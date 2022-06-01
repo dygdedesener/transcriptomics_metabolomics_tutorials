@@ -1,23 +1,18 @@
 <img src="../images/citation.png" width="80" align="right"/>
 
 ## Bug reports
-Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker/issues) with a description of the bug. Add screenshots if necessary. Add a label for "bug".
+Add an [issue on GitHub](https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/issues) with a description of the bug.
+ Add screenshots if necessary. Add a label for "bug".
 
 Please add the following information in your bug report to make testing easier:
 * Operating system
-* Java version
+* R version
 * Cytoscape version
-* CyTargetLinker version
 
 ***
 
 ## Feature requests
-Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker/issues) with a description of the new feature. Add a label for "enhancement".
-
-***
-
-## FAQ
-Frequently answered questions will come soon.
+Add an [issue on GitHub](https://github.com/BiGCAT-UM/Transcriptomics_Metabolomics_Analysis/issues) with a description of the new feature. Add a label for "enhancement".
 
 ***
 
@@ -26,9 +21,9 @@ Frequently answered questions will come soon.
 <tr>
 <td><img src="../images/Tina.jpg"/></td>
 <td>
-<b><a href="https://www.linkedin.com/in/mkutmon/" target="_blank">Martina Summer-Kutmon</a></b>
-<br/>Main developer of CyTargetLinker
-<br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>) and the Maastricht Centre for Systems Biology (<a href="https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology" target="_blank">MaCSBio</a>), Maastricht University
+<b><a href="https://www.linkedin.com/in/duygu-dede-%C5%9Fener-05368452/" target="_blank">Martina Summer-Kutmon</a></b>
+<br/>Main developer of the workflow
+<br/> Post doctoral researcher at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>) and the Maastricht Centre for Systems Biology (<a href="https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology" target="_blank">MaCSBio</a>), Maastricht University
 </td>
 </tr>
 <tr>
