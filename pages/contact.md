@@ -19,11 +19,11 @@ Add an [issue on GitHub](https://github.com/BiGCAT-UM/Transcriptomics_Metabolomi
 ## Team
 <table border="0">
 <tr>
-<td><img src="../images/Tina.jpg"/></td>
+<td><img src="../images/ddede.jpg"/></td>
 <td>
-<b><a href="https://www.linkedin.com/in/duygu-dede-%C5%9Fener-05368452/" target="_blank">Martina Summer-Kutmon</a></b>
+<b><a href="https://www.linkedin.com/in/duygu-dede-%C5%9Fener-05368452/" target="_blank">Duygu Dede Sener</a></b>
 <br/>Main developer of the workflow
-<br/> Post doctoral researcher at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>) and the Maastricht Centre for Systems Biology (<a href="https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology" target="_blank">MaCSBio</a>), Maastricht University
+<br/> Post doctoral researcher at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>), Maastricht University
 </td>
 </tr>
 <tr>
